@@ -372,8 +372,15 @@ p {
 
 #fh5co-main .fh5co-lead,
 .fh5co-section .fh5co-lead {
-  font-size: 22px;
+  font-size: 24px;
   line-height: 34px;
+  color:#333;
+}
+
+.fh5co-lead-sub {
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;	
   color:#333;
 }
   
